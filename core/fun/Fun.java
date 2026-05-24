@@ -27,5 +27,8 @@ public class Fun{
                    text block
                    """;
         System.out.println(textblock);
+        System.out.println("------------------------------------------------------------------------");
+
+        System.out.println("result is: "+5+7);
     }
 }
